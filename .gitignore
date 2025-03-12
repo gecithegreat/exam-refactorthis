@@ -3,3 +3,6 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.vs/RefactorThis/v17/.suo
+.vs/RefactorThis/v17/DocumentLayout.backup.json
+.vs/RefactorThis/v17/DocumentLayout.json
