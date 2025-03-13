@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "G:\\Github-repo\\exam-refactorthis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AF1C33-574F-4783-AA12-120A89F0EA9B}|Solution.RefactorThis.Application.Tests\\Solution.RefactorThis.Application.Tests.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.application.tests\\commands\\processpayment\\processpaymentcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AF1C33-574F-4783-AA12-120A89F0EA9B}|Solution.RefactorThis.Application.Tests\\Solution.RefactorThis.Application.Tests.csproj|solutionrelative:solution.refactorthis.application.tests\\commands\\processpayment\\processpaymentcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\constants\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\constants\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.console.app\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|solutionrelative:solution.refactorthis.console.app\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|solutionrelative:solution.refactorthis.console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\interfaces\\invoices\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\interfaces\\invoices\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\constants\\invalidoperationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\constants\\invalidoperationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C07654E-1A2E-4180-A5BD-FB710994E2D8}|Solution.RefactorThis.Infrastructure\\Solution.RefactorThis.Infrastructure.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C07654E-1A2E-4180-A5BD-FB710994E2D8}|Solution.RefactorThis.Infrastructure\\Solution.RefactorThis.Infrastructure.csproj|solutionrelative:solution.refactorthis.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79AED2E3-D2BB-4F0C-98AB-291DE8B088DB}|Solution.RefactorThis.Persistence\\Solution.RefactorThis.Persistence.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,44 +35,56 @@
       "RelativeMoniker": "D:0:0:{79AED2E3-D2BB-4F0C-98AB-291DE8B088DB}|Solution.RefactorThis.Persistence\\Solution.RefactorThis.Persistence.csproj|solutionrelative:solution.refactorthis.persistence\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07654E-1A2E-4180-A5BD-FB710994E2D8}|Solution.RefactorThis.Infrastructure\\Solution.RefactorThis.Infrastructure.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C07654E-1A2E-4180-A5BD-FB710994E2D8}|Solution.RefactorThis.Infrastructure\\Solution.RefactorThis.Infrastructure.csproj|solutionrelative:solution.refactorthis.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\enums\\invoicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\enums\\invoicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\profiles\\invoiceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\profiles\\invoiceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\profiles\\paymentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\profiles\\paymentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\profiles\\invoiceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\profiles\\invoiceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\interfaces\\invoices\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\interfaces\\invoices\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AF1C33-574F-4783-AA12-120A89F0EA9B}|Solution.RefactorThis.Application.Tests\\Solution.RefactorThis.Application.Tests.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.application.tests\\commands\\processpayment\\processpaymentcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AF1C33-574F-4783-AA12-120A89F0EA9B}|Solution.RefactorThis.Application.Tests\\Solution.RefactorThis.Application.Tests.csproj|solutionrelative:solution.refactorthis.application.tests\\commands\\processpayment\\processpaymentcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\solutionrefactorthis.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\solutionrefactorthis.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\enums\\invoicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\enums\\invoicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\dtos\\processpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\dtos\\processpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\constants\\invalidoperationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\constants\\invalidoperationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|solutionrelative:solution.refactorthis.console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.console.app\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A780CB2-D0B8-4A3C-9310-05E51B971177}|Solution.RefactorThis.Console.App\\Solution.RefactorThis.Console.App.csproj|solutionrelative:solution.refactorthis.console.app\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\solution.refactorthis.domain\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76126C5-8AAE-4596-A030-FC5990F07AB8}|Solution.RefactorThis.Domain\\Solution.RefactorThis.Domain.csproj|solutionrelative:solution.refactorthis.domain\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7971BDEC-EAD1-4FB8-A4F5-B1F67E4F6355}|RefactorThis.Domain.Tests\\RefactorThis.Domain.Tests.csproj|G:\\Github-repo\\exam-refactorthis\\refactorthis.domain.tests\\invoicepaymentprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,12 +95,8 @@
       "RelativeMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|solutionrelative:refactorthis.persistence\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|g:\\github-repo\\exam-refactorthis\\refactorthis.domain\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|G:\\Github-repo\\exam-refactorthis\\refactorthis.domain\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|solutionrelative:refactorthis.domain\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|g:\\github-repo\\exam-refactorthis\\solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62AD7F-DB45-440D-BBF6-A9FEF3C93F62}|SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj|solutionrelative:solutionrefactorthis.application\\commands\\processpayment\\processpaymentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,31 +106,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "ProcessPaymentCommandHandler.cs",
               "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommandHandler.cs",
               "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommandHandler.cs",
               "ToolTip": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommandHandler.cs",
               "RelativeToolTip": "SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommandHandler.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwC0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T15:52:37.67Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Invoice.cs",
               "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Entities\\Invoice.cs",
               "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Entities\\Invoice.cs",
               "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Entities\\Invoice.cs",
               "RelativeToolTip": "Solution.RefactorThis.Domain\\Entities\\Invoice.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAlwCkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:13:58.473Z",
               "IsPinned": true,
@@ -130,56 +137,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "ProcessPaymentCommandHandlerTests.cs",
               "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Application.Tests\\Commands\\ProcessPayment\\ProcessPaymentCommandHandlerTests.cs",
               "RelativeDocumentMoniker": "Solution.RefactorThis.Application.Tests\\Commands\\ProcessPayment\\ProcessPaymentCommandHandlerTests.cs",
               "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Application.Tests\\Commands\\ProcessPayment\\ProcessPaymentCommandHandlerTests.cs",
               "RelativeToolTip": "Solution.RefactorThis.Application.Tests\\Commands\\ProcessPayment\\ProcessPaymentCommandHandlerTests.cs",
-              "ViewState": "AgIAAHkBAAAAAAAAAAArwIkBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwHgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:01:34.611Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IInvoiceRepository.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
-              "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
-              "RelativeToolTip": "SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:02:00.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:01:42.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InvoiceType.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
-              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
-              "RelativeToolTip": "Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:01:35.301Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -191,25 +158,11 @@
               "RelativeToolTip": "SolutionRefactorThis.Application\\Profiles\\InvoiceProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:00:35.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T17:00:35.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProcessPaymentDTO.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
-              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
-              "RelativeToolTip": "Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:56:25.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "PaymentProfile.cs",
               "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Profiles\\PaymentProfile.cs",
               "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\Profiles\\PaymentProfile.cs",
@@ -217,21 +170,31 @@
               "RelativeToolTip": "SolutionRefactorThis.Application\\Profiles\\PaymentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:27:02.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:27:02.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResponseMessage.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
-              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
-              "RelativeToolTip": "Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\DependencyInjection.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "SolutionRefactorThis.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:24:00.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:00:31.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidOperationMessage.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:24:02.036Z"
             },
             {
               "$type": "Document",
@@ -241,49 +204,9 @@
               "RelativeDocumentMoniker": "Solution.RefactorThis.Persistence\\Repositories\\InvoiceRepository.cs",
               "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Persistence\\Repositories\\InvoiceRepository.cs",
               "RelativeToolTip": "Solution.RefactorThis.Persistence\\Repositories\\InvoiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:10:48.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\DependencyInjection.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "SolutionRefactorThis.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:00:31.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InvalidOperationMessage.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
-              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
-              "RelativeToolTip": "Solution.RefactorThis.Domain\\Constants\\InvalidOperationMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:24:02.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Console.App\\Program.cs",
-              "RelativeDocumentMoniker": "Solution.RefactorThis.Console.App\\Program.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Console.App\\Program.cs",
-              "RelativeToolTip": "Solution.RefactorThis.Console.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:04:57.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:10:48.031Z"
             },
             {
               "$type": "Document",
@@ -295,90 +218,84 @@
               "RelativeToolTip": "Solution.RefactorThis.Persistence\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:10:47.427Z",
+              "WhenOpened": "2025-03-12T16:10:47.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:01:42.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Domain\\Constants\\ResponseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:24:00.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "TestService.cs",
               "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Console.App\\TestService.cs",
               "RelativeDocumentMoniker": "Solution.RefactorThis.Console.App\\TestService.cs",
               "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Console.App\\TestService.cs",
               "RelativeToolTip": "Solution.RefactorThis.Console.App\\TestService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:19:26.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:19:26.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Console.App\\Program.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Console.App\\Program.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Console.App\\Program.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Console.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:04:57.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
+              "RelativeToolTip": "SolutionRefactorThis.Application\\Interfaces\\Invoices\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:02:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ProcessPaymentCommand.cs",
               "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommand.cs",
               "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommand.cs",
               "ToolTip": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommand.cs",
               "RelativeToolTip": "SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:56:38.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T15:56:38.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InvoicePaymentProcessorTests.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
-              "RelativeDocumentMoniker": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
-              "RelativeToolTip": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAArwHMAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:59:00.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InvoiceDTO.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
-              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
-              "RelativeToolTip": "Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:37:16.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "InvoiceService.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain\\InvoiceService.cs",
-              "RelativeDocumentMoniker": "RefactorThis.Domain\\InvoiceService.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain\\InvoiceService.cs",
-              "RelativeToolTip": "RefactorThis.Domain\\InvoiceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:16:49.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Persistence\\Invoice.cs",
-              "RelativeDocumentMoniker": "RefactorThis.Persistence\\Invoice.cs",
-              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Persistence\\Invoice.cs",
-              "RelativeToolTip": "RefactorThis.Persistence\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:38:29.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "ProcessPaymentCommandValidator.cs",
               "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommandValidator.cs",
               "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommandValidator.cs",
@@ -386,8 +303,103 @@
               "RelativeToolTip": "SolutionRefactorThis.Application\\Commands\\ProcessPayment\\ProcessPaymentCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:24:16.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:24:16.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SolutionRefactorThis.Application.csproj",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj",
+              "RelativeDocumentMoniker": "SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj",
+              "RelativeToolTip": "SolutionRefactorThis.Application\\SolutionRefactorThis.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T17:30:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvoiceType.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Domain\\Enums\\InvoiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:01:35.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\Entities\\Payment.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:29:53.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProcessPaymentDTO.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Domain\\DTOs\\ProcessPaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:56:25.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InvoiceDTO.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
+              "RelativeDocumentMoniker": "Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
+              "RelativeToolTip": "Solution.RefactorThis.Domain\\DTOs\\InvoiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:37:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InvoicePaymentProcessorTests.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "RelativeDocumentMoniker": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "RelativeToolTip": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAArwHMAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:59:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "RefactorThis.Domain\\InvoiceService.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Domain\\InvoiceService.cs",
+              "RelativeToolTip": "RefactorThis.Domain\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:16:49.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Persistence\\Invoice.cs",
+              "RelativeDocumentMoniker": "RefactorThis.Persistence\\Invoice.cs",
+              "ToolTip": "G:\\Github-repo\\exam-refactorthis\\RefactorThis.Persistence\\Invoice.cs",
+              "RelativeToolTip": "RefactorThis.Persistence\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:38:29.505Z"
             }
           ]
         }

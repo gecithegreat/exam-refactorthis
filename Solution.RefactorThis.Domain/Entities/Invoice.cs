@@ -58,16 +58,13 @@ public record Invoice
             AmountPaid += paymentRequest.Amount;
             Payments?.Add(paymentRequest);
 
-            switch (Type)
+
+            TaxAmount += Type switch
             {
-                case InvoiceType.Standard:
-                    break;
-                case InvoiceType.Commercial:
-                    TaxAmount += paymentRequest.Amount * 0.14m;
-                    break;
-                default:
-                    throw new ArgumentOutOfRangeException();
-            }
+                InvoiceType.Commercial => paymentRequest.Amount * 0.14m,
+                InvoiceType.Standard => 0m,
+                _ => throw new ArgumentOutOfRangeException()
+            };
         }
 
         return true;
